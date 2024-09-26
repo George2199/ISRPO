@@ -6,8 +6,8 @@ int main()
 {
 	print("Hello!");
 	print("ISRPO");
-	void printing(string text)
+	void printing(string str)
 	{
-		print(text);
+		print(str);
 	}
 }
