@@ -4,8 +4,7 @@ using namespace std;
 
 int main()
 {
-	print("Hello!");
-	print("ISRPO");
+	printing("Hello");
 	void printing(string text)
 	{
 		print(text);
